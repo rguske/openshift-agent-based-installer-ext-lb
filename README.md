@@ -384,7 +384,7 @@ Copy the created iso into `/var/www/html/`.
 
 Download the iso by using e.g. `curl -LO http://<bastion-name/ip>/agent.x86_64.iso` or `wget`.
 
-**IMPORTANT!*: The `httpd` service is listening on port 80. So the `openshift-4-loadbalancer` service. Stop the load balancer service for the time you exchange the created `agent.iso`.
+**IMPORTANT!**: The `httpd` service is listening on port 80. So the `openshift-4-loadbalancer` service. Stop the load balancer service for the time you exchange the created `agent.iso`.
 
 ## Validate HAProxy is serving
 
