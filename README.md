@@ -33,7 +33,7 @@ One of the control plane hosts runs the Assisted Service at the start of the boo
 
 ![node-installation-workflow](assets/node-installation-worklflow.png)
 
-## Install OpenShift Container Platform on any platform (Pplatform `none: {}`).
+## Install OpenShift Container Platform on any platform (platform `none: {}`).
 
 [Docs - Installing on any platform](https://docs.redhat.com/en/documentation/openshift_container_platform/4.17/html/installing_on_any_platform/installing-platform-agnostic#installation-load-balancing-user-infra_installing-platform-agnostic)
 
